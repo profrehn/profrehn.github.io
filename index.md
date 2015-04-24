@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Music Theory
+title: *Learning Music Theory*
 ---
 
 **Open Music Theory** is an open-source, interactive, online "text"book for college-level music theory courses. OMT was built on resources authored by Kris Shaffer, Bryn Hughes, and Brian Moseley. It is edited by Kris Shaffer and Robin Wharton, and is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing). 
@@ -11,3 +11,5 @@ The first major edition of OMT was made possible financially by [a crowdfunding 
 
 [**About this textbook**](about.html)  
 [**Table of contents**](contents.html)
+
+This is my first forked website, my very own version.
